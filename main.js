@@ -39,7 +39,7 @@ function getRepos() {
                 url.appendChild(urlTxt);
 
                 // add hypertext reference 
-                url.href = `https://github.com/users/${theInput.value}/${repo.name}`;
+                url.href = `https://github.com/${theInput.value}/${repo.name}`;
 
                 // open link in new blank => attribute 
                 url.setAttribute('target', '_blank');
