@@ -15,7 +15,7 @@ It is easy to use....let's see steps.
 3- click the button .
 
 ### <now the repos appear>
-### That is all ? => NOoO
+### That is all ? => NO
      
 4- You can click on 'Visit' button to visit the repo you want.
 
